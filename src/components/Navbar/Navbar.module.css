@@ -20,6 +20,7 @@
 
 .logo{
     font-size: 2rem;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .ul{
@@ -34,10 +35,14 @@
     font-size: 1.1rem;
     background-color: transparent;
     border: none;
+    transition: all .42s ease;
 }
 
-.nav__icons{
-    display: flex;
+.nav__link:hover{
+    border: none;
+    color:rgb(212, 26, 73);
 }
+
+
 
 

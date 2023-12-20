@@ -9,7 +9,7 @@
     height: 300px;
     object-fit: cover;
     overflow: hidden;
-    border-left: 2px solid rgba(0, 0, 0, 0.582);
+    border-left: 2px solid #000000ce;
     
 }
 
